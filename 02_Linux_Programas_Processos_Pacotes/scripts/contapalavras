@@ -1,0 +1,3 @@
+echo "contanto a quantidade de palavras: "
+wc -w *.txt
+echo "fim."
